@@ -1,0 +1,10 @@
+[
+    {
+        "name": "weather_mcp_tool",
+        "module": {"name": "weather_mcp_tool"},
+        "node": {"ip": "localhost"},
+        "config": {
+            "config_name": "tool_config_1"
+        }    
+    }
+]
